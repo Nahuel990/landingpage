@@ -342,7 +342,7 @@
   content: "\e013";
 }
 .icon-mustache:before {
-  content: "\e014";
+  content: url("../startbootstrap-stylish-portfolio/img/lucas.jpeg")
 }
 .icon-mouse:before {
   content: "\e015";
